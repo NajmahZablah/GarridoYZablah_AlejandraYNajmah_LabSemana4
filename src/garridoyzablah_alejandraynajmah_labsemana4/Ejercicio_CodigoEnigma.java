@@ -45,7 +45,7 @@ public class Ejercicio_CodigoEnigma {
                 }
                 String resultado = pares + impares;
                 System.out.println("Texto encriptado: " + resultado);
-
+                
                 } else if (opcion == 2) {
                 System.out.print("Ingresa el texto a desencriptar: ");
                 String textoEncriptado = lea.next();

@@ -48,7 +48,7 @@ public class Ejercicio_Cifrado {
             i=i+1;
            
         }
-        // Se mostrará el resultado del cifrado 
+        //Se mostrará el resultado del cifrado 
         System.out.println("La frase cifrada se muestra como:");
         System.out.println(resultado);
     }
